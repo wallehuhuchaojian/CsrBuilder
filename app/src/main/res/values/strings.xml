@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Upgrade tool</string>
+    <string name="confirmtoconnect_tips">Tips:Please connect to the device and restart the app</string>
+    <string name="confirmtoconnect_title">No device found</string>
+    <string name="waitfordeviceok_title">Device is not ready</string>
+    <string name="waitfordeviceok_tips">Tips:Please hold power button for 5 LEDs light</string>
+    <string name="waittostart_title">Ready</string>
+    <string name="waittostart_tips">Tips:Click the upgrade button to start</string>
+    <string name="transporting_title">uploading</string>
+    <string name="transporting_tips">Tips:Please make sure the craft is charging</string>
+    <string name="updating_title">upgrading</string>
+    <string name="updating_tips">Warning:Do not take the craft away untill breath light appeard or count down finished</string>
+    <string name="selectversion_title">Choose upgrade version</string>
+    <string name="selectversion_tips">Tips:click the version to upgrade</string>
+    <string name="finish_tips">Complete</string>
+    <string name="start">Start</string>
+    <string name="countdown">Countdown</string>
+    <string name="exit_tips">click again to exit</string>
+
+
+</resources>

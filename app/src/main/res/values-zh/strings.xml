@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Upgrade tool</string>
+    <string name="confirmtoconnect_tips">提示：请连接待升级设备，并重启app</string>
+    <string name="confirmtoconnect_title">无连接</string>
+    <string name="waitfordeviceok_title">等待设备进入升级状态</string>
+    <string name="waitfordeviceok_tips">提示：长按power键,5颗灯亮后松开</string>
+    <string name="waittostart_title">一切就绪</string>
+    <string name="waittostart_tips">提示：点击升级按钮，开始升级</string>
+    <string name="transporting_title">正在传输</string>
+    <string name="transporting_tips">提示：请确保飞碟已处于充电状态</string>
+    <string name="updating_title">正在升级</string>
+    <string name="updating_tips">警告：在飞碟呼吸灯出现前或者倒计时结束前，不要拿起飞碟。确保飞碟一直处于充电状态</string>
+    <string name="selectversion_title">选择升级到的版本</string>
+    <string name="selectversion_tips">提示：点击对应版本</string>
+    <string name="finish_tips">完成</string>
+    <string name="start">开始</string>
+    <string name="countdown">倒计时</string>
+    <string name="exit_tips">再次点击退出</string>
+</resources>
